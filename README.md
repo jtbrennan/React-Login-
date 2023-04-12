@@ -1,3 +1,3 @@
 # React-Login-Page
 
-[Link](https://react-login-page.johnnyt001.repl.co)
+[Link to the Project](https://react-login-page.johnnyt001.repl.co)
